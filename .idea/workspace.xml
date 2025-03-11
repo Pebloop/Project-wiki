@@ -5,28 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8879dbd9-7d58-4fcf-83a3-d99252bc63d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/routes/+layout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/cave-breaker/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/goi/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/gumicode/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/wordly/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+layout.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+layout.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="+page.svelte" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Pebloop"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pebloop&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Pebloop/Project-wiki.git",
-    "accountId": "9e166101-a6ba-4349-8f6e-225e4c2a584d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pebloop/Project-wiki.git&quot;,
+    &quot;accountId&quot;: &quot;9e166101-a6ba-4349-8f6e-225e4c2a584d&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,14 +59,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/alexl/Documents/git/Project-wiki",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Tempo/Documents/GitRepo/pebloop/Project-wiki",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\Tempo\\Documents\\GitRepo\\pebloop\\Project-wiki\\node_modules\\prettier",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.2.8\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Users\\Tempo\\Documents\\GitRepo\\pebloop\\Project-wiki\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,10 +82,23 @@
       <recent name="C:\Users\alexl\Documents\git\Project-wiki\src-tauri" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="pnpm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -88,6 +118,7 @@
       <workItem from="1738139760668" duration="19000" />
       <workItem from="1738576122844" duration="1782000" />
       <workItem from="1741616735538" duration="553000" />
+      <workItem from="1741668380854" duration="811000" />
     </task>
     <servers />
   </component>
